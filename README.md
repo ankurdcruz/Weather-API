@@ -1,2 +1,2 @@
 # Weather-API
-Display the current Weather data of Delhi
+Here we display the current Weather data of Delhi.
